@@ -3,7 +3,3 @@ numpy
 pandas
 matplotlib
 scipy
-open-cv
-scikit-learn
-tensorflow
-torch
