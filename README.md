@@ -1,2 +1,3 @@
-# Pythoning
-Python Code Challenge Repository
+# Python Challenge
+1. Leetcode
+2. Codewars
