@@ -6,7 +6,6 @@ class Desc:
 
     Available Function
     1. Mean
-    2. Varians
     """
 
     def __init__(self, *nums):
