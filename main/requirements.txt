@@ -5,3 +5,8 @@ coverage
 mypy
 black
 isort
+datetime
+numpy
+pandas
+matplotlib
+scipy

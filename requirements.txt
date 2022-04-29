@@ -1,5 +1,0 @@
-datetime
-numpy
-pandas
-matplotlib
-scipy
