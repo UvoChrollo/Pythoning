@@ -37,5 +37,5 @@ jobs:
     - name: Test with pytest
       run: |
         echo "Doctest Running"
-        # Automated doctest and ignore notebook folder for learning purpose
-        pytest . --doctest-modules --ignore=notebook
+        # Automated doctest and ignore self-dev folder for learning and development purpose
+        pytest . --doctest-modules --ignore=self-dev
